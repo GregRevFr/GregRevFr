@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GregRevFr
+- 👀 I’m interested in data science, ML, AI
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me on linkedin
